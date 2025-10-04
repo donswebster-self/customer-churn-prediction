@@ -17,13 +17,15 @@ This project applies advanced machine learning techniques to predict customer ch
 - **Jupyter Notebook** for development and analysis
 
 ## 📂 Project Structure
+``` 
 customer_churn_prediction/
 │── notebooks/
-│ └── Credit_Card_Users_Churn_Prediction_FullCode_DonW.ipynb
+│   └── Credit_Card_Users_Churn_Prediction_FullCode_DonW.ipynb
 │── report/
-│ └── Credit_Card_User_Churn_Prediction_FullPage_Case_Study.pdf
+│   └── Credit_Card_User_Churn_Prediction_FullPage_Case_Study.pdf
 │── requirements.txt
 │── README.md
+```
 
 ## 🔍 Approach
 1. **Data Preprocessing**  
